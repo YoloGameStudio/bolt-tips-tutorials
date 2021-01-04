@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Tutorials/InputAccelerator/InputAccelerator.unity
+    guid: a668eb398ab7a1642becbbfa2cc6f2f6
   m_configObjects: {}
