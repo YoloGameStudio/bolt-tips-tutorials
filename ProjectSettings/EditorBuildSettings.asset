@@ -5,7 +5,10 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/Tutorials/InputAccelerator/InputAccelerator.unity
     guid: a668eb398ab7a1642becbbfa2cc6f2f6
+  - enabled: 1
+    path: Assets/Tutorials/MouseInputMobile/MouseInputMobile.unity
+    guid: 1332d9928dfe99d49a89be33edb6699d
   m_configObjects: {}
